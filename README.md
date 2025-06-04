@@ -9,12 +9,6 @@ Rodamos a análise com Python, aplicando testes estatísticos, métricas de conv
 # Legenda da base de dados
 ![image](https://github.com/user-attachments/assets/ee9db8f4-b8e5-4aef-b8a4-e4c2c8f07ca4)
 
-# 📊 Análise de Teste A/B — Algoritmos de Conversão em Restaurantes
-
-Este projeto tem como objetivo avaliar o desempenho de diferentes algoritmos de recomendação utilizados em restaurantes, por meio de um experimento de Teste A/B com foco em taxas de conversão.
-
----
-
 ## 🧪 Objetivo
 
 Comparar estatisticamente o desempenho de três grupos:
