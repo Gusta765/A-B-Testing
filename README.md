@@ -1,8 +1,10 @@
-# A-B Testing Metodologia Científica de mensuração e testes.
-Rodando um A/B testing em Python.
-Uma empresa trabalha com um site onde a varias recomendações e avaliações de restaurantes. E pelo site o cliente pode escolher qual restaurante quer fazer uma reserva
-Em uma das analises foi levantado a hipótese de que adicionar o botão de reservar agora na cor vermelha em cada anuncio aumentaria o número de reservas.
-Para testar e mensurar esta hipótese iremos utilizar o A/B Test.
+# 🧪 A/B Testing — Metodologia Científica para Testar Hipóteses
+
+O A/B Testing é uma técnica estatística usada para comparar duas ou mais versões de uma variável (como uma interface, funcionalidade ou algoritmo) e verificar, com rigor científico, qual delas gera melhores resultados. 
+
+Neste projeto, simulamos um experimento em que diferentes algoritmos e elementos visuais (como um botão vermelho de "Reservar Agora") foram testados com o objetivo de aumentar a taxa de reservas em um site de restaurantes.
+
+Rodamos a análise com Python, aplicando testes estatísticos, métricas de conversão e segmentações por tipo de restaurante.
 
 # Legenda da base de dados
 ![image](https://github.com/user-attachments/assets/ee9db8f4-b8e5-4aef-b8a4-e4c2c8f07ca4)
