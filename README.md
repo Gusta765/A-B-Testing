@@ -97,5 +97,3 @@ Comparar estatisticamente o desempenho de três grupos:
 [![Email](https://img.shields.io/badge/Email-gustavobarbosa7744@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavobarbosa7744@gmail.com)
 
 ---
-
-> Este projeto demonstra minha capacidade de realizar testes estatísticos rigorosos, gerar insights acionáveis e tomar decisões baseadas em dados — habilidades essenciais para atuar como **Analista ou Cientista de Dados** em empresas com maturidade analítica.
